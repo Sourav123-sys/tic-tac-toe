@@ -1,6 +1,3 @@
-# Tic-Tac-Toe Game (Single Player Mode)
+# React-Tic-Tac-Toe  (Single Player)
 
-## Technology used 
-1. React.js
-2. Bootstrap
 
