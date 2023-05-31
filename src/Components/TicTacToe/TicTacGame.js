@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./TicTacToe.css";
+import "./TicTacGame.css";
 import { toast } from "react-hot-toast";
 
 const TicTacToe = () => {
